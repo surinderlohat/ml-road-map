@@ -7,6 +7,7 @@ Classification in machine learning involves predicting a target variable that is
 ### 1. Binary Classification
 **Description**: Classification where the target variable has two classes.  
 **Examples**:
+- Predicting Customer Purchase predict (customer will the product or not) https://github.com/surinderlohat/ml-road-map/blob/main/simple_classification_example.ipynb
 - Spam detection (spam or not spam)
 - Disease prediction (disease or no disease)
 
