@@ -13,4 +13,8 @@
       5. Tutorials\NLP Using ML
 
 
-  We have tried to cover the all concepts if you think something is missing then add it and create a pull request.
+# To setup this project on your local machine follow 
+      1. how-to-start.md file
+
+
+We have tried to cover the all concepts if you think something is missing then add it and create a pull request.
