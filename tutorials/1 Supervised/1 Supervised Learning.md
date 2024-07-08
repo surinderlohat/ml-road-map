@@ -1,8 +1,8 @@
 # Supervised Learning:
 
-  ### Description: 
-  In supervised learning, the model is trained on labeled data. The algorithm learns from input-output pairs, where the input is the data, and the output is the desired result or label. 
-  ### Examples: 
+### Description: 
+  Supervised learning is a type of machine learning where the model is trained on labeled data. The goal is to learn a mapping from inputs to outputs so that the model can make predictions on new, unseen data. There are two main types of supervised learning: classification and regression.
+### Examples: 
   Classification (e.g., spam detection, image recognition), Regression (e.g., predicting house prices, stock prices).
 
 # Types of Supervised Learning
