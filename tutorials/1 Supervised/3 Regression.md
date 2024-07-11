@@ -3,11 +3,20 @@
 
 Regression is used when the target variable is continuous. The goal is to predict a continuous value. Some common examples include:
 
-- **Linear Regression**: Predicting house prices based on features like size, location, and number of rooms.
-- **Polynomial Regression**: A type of regression that fits a polynomial equation to the data.
-- **Ridge Regression**: A linear regression technique that includes regularization to prevent overfitting.
-- **Lasso Regression**: Similar to ridge regression but can shrink coefficients to zero, thus performing feature selection.
-- **Elastic Net Regression**: Combines both ridge and lasso regression regularizations.
+The most commonly used types of regression depend largely on the nature of the data and the specific problem being addressed. However, some types are more frequently encountered in different scenarios:
+
+1. **Linear Regression**: This is perhaps the most widely used type because of its simplicity and interpretability. It's used when the relationship between the independent variables and the dependent variable is assumed to be linear.
+
+2. **Logistic Regression**: Very common in binary classification problems where the outcome is binary (e.g., yes/no, true/false). Despite its name, logistic regression is used for classification rather than regression.
+
+3. **Ridge and Lasso Regression**: These are popular when dealing with high-dimensional data or when multicollinearity (correlation between predictors) is a concern. They add regularization to linear regression to improve its performance.
+
+4. **Polynomial Regression**: Used when the relationship between the variables is non-linear and can be approximated well by a polynomial curve.
+
+5. **ElasticNet Regression**: This is often used when there are multiple correlated independent variables, combining the advantages of both ridge and lasso regression.
+
+The choice of regression type depends on factors such as the nature of the data (linear vs. non-linear relationship), the distribution of the dependent variable, and whether regularization is needed to prevent overfitting. Each type has its strengths and is chosen based on the specific characteristics and requirements of the dataset and the problem at hand.
+
 
 #### Examples of Regression Algorithms
 - **Linear Regression**
