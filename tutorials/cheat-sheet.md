@@ -18,3 +18,4 @@ formula to draw a line
  minimize (h0 (x)-y)power2
 
  ### Gradient Descent
+Gradient Descent is used to reduce the error is cost function. 
