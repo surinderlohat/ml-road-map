@@ -37,7 +37,7 @@ Creating a detailed machine learning roadmap involves outlining each step from u
 ### 4. **Model Selection**
 
 #### **Understanding Algorithms**
-- **Supervised Learning**: Regression (Linear, Polynomial), Classification (Logistic Regression, Decision Trees, SVM, k-NN, Naive Bayes).
+- **Supervised Learning**: Regression (Linear (https://www.youtube.com/watch?v=jerPVDaHbEA&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&index=2), Polynomial), Classification (Logistic Regression, Decision Trees, SVM, k-NN, Naive Bayes).
 - **Unsupervised Learning**: Clustering (k-Means, Hierarchical), Dimensionality Reduction (PCA, t-SNE).
 - **Advanced Techniques**: Ensemble methods (Random Forest, Gradient Boosting), Neural Networks.
 
