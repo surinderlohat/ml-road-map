@@ -19,3 +19,6 @@ formula to draw a line
 
  ### Gradient Descent
 Gradient Descent is used to reduce the error is cost function. 
+
+
+### If a best fit line touch the most of the points then it's called over fitting because there should be  
