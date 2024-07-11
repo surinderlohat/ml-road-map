@@ -11,7 +11,10 @@ formula to draw a line
 
  ### Cost function
  const function is used to determine how much accurate is our result.
+ const referred to as the loss function, measures the performance of a model by quantifying the difference between the predicted values and the actual values
 
  help us to minimize the difference between predicted value and the actual value 
  formula
  minimize (h0 (x)-y)power2
+
+ ### Gradient Descent
