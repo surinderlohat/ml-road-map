@@ -21,6 +21,7 @@ formula to draw a line
 Gradient Descent is used to reduce the error is cost function. 
 
 
+<<<<<<< HEAD
 ### If a best fit line touch the most of the points then it's called over fitting because there should be  
 
 
@@ -32,3 +33,6 @@ Measures average squared difference between predicted and actual values; lower i
 Measures average absolute difference between predicted and actual values; lower is better.
 ### R-squared (R2 Score): 
 Measures how well the model's predictions explain the variance in the data; closer to 1 is better, 0 indicates no improvement over mean prediction.
+=======
+### If a best fit line touch the most of the points then it's called over fitting because there should be  
+>>>>>>> 05edde877d9e8e71f86f29a39fba445aed7b9d79
