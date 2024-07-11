@@ -19,3 +19,16 @@ formula to draw a line
 
  ### Gradient Descent
 Gradient Descent is used to reduce the error is cost function. 
+
+
+### If a best fit line touch the most of the points then it's called over fitting because there should be  
+
+
+## Model validation
+
+### Mean Squared Error (MSE): 
+Measures average squared difference between predicted and actual values; lower is better.
+### Mean Absolute Error (MAE): 
+Measures average absolute difference between predicted and actual values; lower is better.
+### R-squared (R2 Score): 
+Measures how well the model's predictions explain the variance in the data; closer to 1 is better, 0 indicates no improvement over mean prediction.
