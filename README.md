@@ -1,5 +1,8 @@
 # This project help you to understand the Machine Learning with working code examples
 
+
+https://scikit-learn.org/stable/supervised_learning.html
+
   ### If you want to see examples go here : 
       1. examples\SupervisedLearning
       2. examples\UnSupervisedLearning
